@@ -1,6 +1,7 @@
-# Animality-Owl: Precision-Driven Legal Document Translation
+
 
 ![Animality-Owl Logo](https://animality.ai/assets/images/animality-logo-transparent-small-white-text.png) <!-- You can add your logo here -->
+# Animality-Owl: Precision-Driven Legal Document Translation
 
 Welcome to Animality-Owl, your premier solution for translating legal documents and contracts with unparalleled precision, accuracy, and speed. 
 
